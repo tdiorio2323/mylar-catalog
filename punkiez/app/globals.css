@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-orange: #FF7A00;
+}
+
+body {
+  background-image: url('/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #111827;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.glass {
+  background-color: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px);
+  border: 6px solid transparent !important;
+  background-clip: padding-box;
+  position: relative;
+  box-shadow:
+    0 25px 50px -12px rgba(0, 0, 0, 0.4),
+    0 15px 35px -10px rgba(0, 0, 0, 0.3),
+    0 8px 20px -5px rgba(0, 0, 0, 0.2),
+    0 0 60px rgba(255, 122, 0, 0.15);
+}
+
+.glass::before {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border-radius: inherit;
+  padding: 6px;
+  background: linear-gradient(
+    135deg,
+    #FF9933 0%,
+    #FFB366 15%,
+    #FFCC99 25%,
+    #FF7A00 40%,
+    #CC6200 50%,
+    #FF7A00 60%,
+    #FFCC99 75%,
+    #FFB366 85%,
+    #FF9933 100%
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  z-index: -1;
+  filter: brightness(1.2) contrast(1.1);
+}
+
+.menu-btn {
+  background-color: white;
+  color: #FF7A00;
+  transition: all 0.2s;
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    0 4px 8px rgba(0, 0, 0, 0.2),
+    0 2px 4px rgba(0, 0, 0, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.menu-btn::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.4) 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    transparent 100%
+  );
+  pointer-events: none;
+}
+
+.menu-btn:hover {
+  background-color: #FF7A00;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow:
+    0 6px 12px rgba(0, 0, 0, 0.25),
+    0 3px 6px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.telegram-btn {
+  background: linear-gradient(135deg, #FF7A00 0%, #FF8C1A 50%, #FF7A00 100%);
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    0 6px 16px rgba(255, 122, 0, 0.4),
+    0 4px 8px rgba(0, 0, 0, 0.3),
+    0 2px 4px rgba(0, 0, 0, 0.2),
+    inset 0 2px 0 rgba(255, 255, 255, 0.4),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.telegram-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg,
+    transparent,
+    rgba(255, 255, 255, 0.4),
+    transparent
+  );
+  transition: left 0.5s;
+  z-index: 1;
+}
+
+.telegram-btn::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 55%;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(255, 255, 255, 0.2) 40%,
+    transparent 100%
+  );
+  border-radius: 0.75rem 0.75rem 0 0;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.telegram-btn:hover::before {
+  left: 100%;
+}
+
+.telegram-btn:hover {
+  background: linear-gradient(135deg, #FF8C1A 0%, #FFA033 50%, #FF8C1A 100%);
+  transform: translateY(-2px);
+  box-shadow:
+    0 8px 20px rgba(255, 122, 0, 0.5),
+    0 6px 12px rgba(0, 0, 0, 0.35),
+    0 3px 6px rgba(0, 0, 0, 0.25),
+    inset 0 2px 0 rgba(255, 255, 255, 0.5),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
