@@ -1,0 +1,41 @@
+{
+  // Auto-approve safe dev commands from chat in THIS workspace
+  "chat.tools.terminal.autoApprove": {
+    // Node/NPM/Yarn/PNPM commands
+    "^npm (run|install|ci|exec)\\b": true,
+    "^pnpm (run|install|exec)\\b": true,
+    "^yarn (run|install)\\b": true,
+    "^node(\\s|$)": true,
+    "^npx(\\s|$)": true,
+    // Vercel & Supabase CLI
+    "^vercel(\\s|$)": true,
+    "^supabase (db|link|login|env|projects)\\b": true,
+    "^psql(\\s|$)": true,
+    // Git commands (safe subset)
+    "^git (status|show|log|diff|fetch|pull)\\b": true,
+    // Shell scripts (run/setup only, in project root)
+    "^chmod \\+x \\./.*\\.sh$": true,
+    "^bash \\./.*\\.sh$": true,
+    "^zsh \\./.*\\.sh$": true,
+    "^\\./run-.*\\.sh$": true,
+    "^\\./setup-.*\\.sh$": true,
+    // Hard blocks—leave these for safety
+    "^rm(\\s|$)": false,
+    "^sudo(\\s|$)": false,
+    "^mkfs|^diskutil|^format\\b": false,
+    // Block arbitrary PowerShell scripts
+    "\\\\.ps1$": {
+      "approve": false,
+      "matchCommandLine": true
+    }
+  },
+  // Reduce prompts for chat-applied edits in this trusted repo
+  "chat.workspaceEdits.allowEditsInTrustedWorkspace": "all",
+  "chat.openFilePermissions": "allowAll",
+  // EditorConfig: match repo guidelines
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}

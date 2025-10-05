@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --background: 0 0% 3.9%;
+  --foreground: 0 0% 98%;
+  --card: 0 0% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --popover: 0 0% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 0 0% 98%;
+  --primary-foreground: 0 0% 9%;
+  --secondary: 0 0% 14.9%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 0 0% 14.9%;
+  --muted-foreground: 0 0% 63.9%;
+  --accent: 0 0% 14.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 0 0% 14.9%;
+  --input: 0 0% 14.9%;
+  --ring: 0 0% 83.1%;
+  --chart-1: 220 70% 50%;
+  --chart-2: 160 60% 45%;
+  --chart-3: 30 80% 55%;
+  --chart-4: 280 65% 60%;
+  --chart-5: 340 75% 55%;
+  --radius: 0.5rem;
+}
+
+html,
+body {
+  background: #0a0a0a;
+}
+
+.glass {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.02));
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-right-color: rgba(255, 255, 255, 0.06);
+  border-bottom-color: rgba(255, 255, 255, 0.06);
+  box-shadow: var(--shadow-glass, 0 8px 32px rgba(0, 0, 0, 0.35));
+  backdrop-filter: blur(12px) saturate(140%);
+}
+
+.liquid-btn {
+  position: relative;
+  isolation: isolate;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  overflow: hidden;
+}
+
+.liquid-btn::before {
+  content: "";
+  position: absolute;
+  inset: auto -60% 0 auto;
+  top: -120%;
+  width: 120%;
+  height: 300%;
+  background: radial-gradient(120px 120px at 50% 30%, rgba(255, 255, 255, 0.35), transparent 60%),
+    linear-gradient(120deg, rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0) 60%);
+  filter: blur(8px);
+  transform: skewX(-20deg) translateX(-120%);
+  opacity: 0.65;
+  pointer-events: none;
+}
+
+.liquid-btn:hover::before {
+  animation: sheen 1.6s ease-in-out;
+}
+
+.frosted-input {
+  width: 100%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.03));
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-right-color: rgba(255, 255, 255, 0.1);
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px) saturate(140%);
+  border-radius: 0.75rem;
+  padding: 0.65rem 0.9rem;
+  outline: none;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.frosted-input::placeholder {
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.frosted-input:focus {
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.12), 0 8px 24px rgba(0, 0, 0, 0.45);
+  border-color: rgba(255, 255, 255, 0.28);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.04));
+}
