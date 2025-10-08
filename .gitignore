@@ -1,0 +1,62 @@
+# Development files
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Archive files (keep originals out of repo)
+*.zip
+*.tar.gz
+*.rar
+
+# Python cache (if using Python scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules (if adding npm/yarn later)
+node_modules/
+.npm/
+.yarn/
+
+# Vercel local files
+.vercel
+
+# Environment variables
+.env
+.env.local
+.env.production.local
+
+# Processing scripts (keep in parent directory)
+/analyze_*.py
+/optimize_*.py
+/generate_*.py
+
+# Temporary processing outputs
+/temp/
+/output/
+*.json.temp
