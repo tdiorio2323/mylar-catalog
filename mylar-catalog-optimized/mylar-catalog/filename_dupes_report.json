@@ -1,0 +1,4543 @@
+[
+  {
+    "normalized_key": "mylar_design",
+    "keeper": {
+      "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0237.webp",
+      "filename": "mylar_design_0237.webp",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "match_reason": "1200x1500"
+    },
+    "duplicates": [
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0124.webp",
+        "filename": "mylar_design_0124.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0061.webp",
+        "filename": "mylar_design_0061.webp",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0173.webp",
+        "filename": "mylar_design_0173.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0036.webp",
+        "filename": "mylar_design_0036.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0165.webp",
+        "filename": "mylar_design_0165.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0020.webp",
+        "filename": "mylar_design_0020.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0132.webp",
+        "filename": "mylar_design_0132.webp",
+        "dimensions": [
+          642,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0098.webp",
+        "filename": "mylar_design_0098.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0149.webp",
+        "filename": "mylar_design_0149.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0221.webp",
+        "filename": "mylar_design_0221.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0108.webp",
+        "filename": "mylar_design_0108.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0128.webp",
+        "filename": "mylar_design_0128.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0082.webp",
+        "filename": "mylar_design_0082.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0201.webp",
+        "filename": "mylar_design_0201.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0190.webp",
+        "filename": "mylar_design_0190.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0169.webp",
+        "filename": "mylar_design_0169.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0186.webp",
+        "filename": "mylar_design_0186.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0240.webp",
+        "filename": "mylar_design_0240.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0217.webp",
+        "filename": "mylar_design_0217.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0145.webp",
+        "filename": "mylar_design_0145.webp",
+        "dimensions": [
+          637,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0057.webp",
+        "filename": "mylar_design_0057.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0112.webp",
+        "filename": "mylar_design_0112.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0104.webp",
+        "filename": "mylar_design_0104.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0016.webp",
+        "filename": "mylar_design_0016.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0153.webp",
+        "filename": "mylar_design_0153.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0017.webp",
+        "filename": "mylar_design_0017.webp",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0152.webp",
+        "filename": "mylar_design_0152.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0105.webp",
+        "filename": "mylar_design_0105.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0113.webp",
+        "filename": "mylar_design_0113.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0001.webp",
+        "filename": "mylar_design_0001.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0144.webp",
+        "filename": "mylar_design_0144.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0216.webp",
+        "filename": "mylar_design_0216.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0241.webp",
+        "filename": "mylar_design_0241.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0187.webp",
+        "filename": "mylar_design_0187.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0191.webp",
+        "filename": "mylar_design_0191.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0200.webp",
+        "filename": "mylar_design_0200.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0129.webp",
+        "filename": "mylar_design_0129.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0109.webp",
+        "filename": "mylar_design_0109.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0220.webp",
+        "filename": "mylar_design_0220.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0236.webp",
+        "filename": "mylar_design_0236.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0148.webp",
+        "filename": "mylar_design_0148.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0133.webp",
+        "filename": "mylar_design_0133.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0099.webp",
+        "filename": "mylar_design_0099.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0076.webp",
+        "filename": "mylar_design_0076.webp",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0164.webp",
+        "filename": "mylar_design_0164.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0021.webp",
+        "filename": "mylar_design_0021.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0172.webp",
+        "filename": "mylar_design_0172.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0125.webp",
+        "filename": "mylar_design_0125.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0207.webp",
+        "filename": "mylar_design_0207.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0179.webp",
+        "filename": "mylar_design_0179.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0196.webp",
+        "filename": "mylar_design_0196.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0250.webp",
+        "filename": "mylar_design_0250.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0180.webp",
+        "filename": "mylar_design_0180.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0138.webp",
+        "filename": "mylar_design_0138.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0211.webp",
+        "filename": "mylar_design_0211.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0143.webp",
+        "filename": "mylar_design_0143.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0051.webp",
+        "filename": "mylar_design_0051.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0114.webp",
+        "filename": "mylar_design_0114.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0047.webp",
+        "filename": "mylar_design_0047.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0102.webp",
+        "filename": "mylar_design_0102.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0010.webp",
+        "filename": "mylar_design_0010.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0155.webp",
+        "filename": "mylar_design_0155.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0067.webp",
+        "filename": "mylar_design_0067.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0175.webp",
+        "filename": "mylar_design_0175.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0163.webp",
+        "filename": "mylar_design_0163.webp",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0026.webp",
+        "filename": "mylar_design_0026.webp",
+        "dimensions": [
+          642,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0134.webp",
+        "filename": "mylar_design_0134.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0071.webp",
+        "filename": "mylar_design_0071.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0231.webp",
+        "filename": "mylar_design_0231.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0118.webp",
+        "filename": "mylar_design_0118.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0227.webp",
+        "filename": "mylar_design_0227.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0159.webp",
+        "filename": "mylar_design_0159.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0158.webp",
+        "filename": "mylar_design_0158.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0226.webp",
+        "filename": "mylar_design_0226.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0119.webp",
+        "filename": "mylar_design_0119.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0230.webp",
+        "filename": "mylar_design_0230.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0135.webp",
+        "filename": "mylar_design_0135.webp",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0070.webp",
+        "filename": "mylar_design_0070.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0162.webp",
+        "filename": "mylar_design_0162.webp",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0027.webp",
+        "filename": "mylar_design_0027.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0089.webp",
+        "filename": "mylar_design_0089.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0123.webp",
+        "filename": "mylar_design_0123.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0066.webp",
+        "filename": "mylar_design_0066.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0011.webp",
+        "filename": "mylar_design_0011.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0046.webp",
+        "filename": "mylar_design_0046.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0115.webp",
+        "filename": "mylar_design_0115.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0007.webp",
+        "filename": "mylar_design_0007.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0210.webp",
+        "filename": "mylar_design_0210.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0093.webp",
+        "filename": "mylar_design_0093.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0139.webp",
+        "filename": "mylar_design_0139.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0247.webp",
+        "filename": "mylar_design_0247.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0181.webp",
+        "filename": "mylar_design_0181.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0251.webp",
+        "filename": "mylar_design_0251.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0178.webp",
+        "filename": "mylar_design_0178.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0157.webp",
+        "filename": "mylar_design_0157.webp",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0012.webp",
+        "filename": "mylar_design_0012.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0229.webp",
+        "filename": "mylar_design_0229.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0100.webp",
+        "filename": "mylar_design_0100.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0045.webp",
+        "filename": "mylar_design_0045.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0116.webp",
+        "filename": "mylar_design_0116.webp",
+        "dimensions": [
+          637,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0141.webp",
+        "filename": "mylar_design_0141.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0004.webp",
+        "filename": "mylar_design_0004.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0213.webp",
+        "filename": "mylar_design_0213.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0090.webp",
+        "filename": "mylar_design_0090.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0244.webp",
+        "filename": "mylar_design_0244.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0028.webp",
+        "filename": "mylar_design_0028.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0182.webp",
+        "filename": "mylar_design_0182.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0252.webp",
+        "filename": "mylar_design_0252.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0194.webp",
+        "filename": "mylar_design_0194.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0205.webp",
+        "filename": "mylar_design_0205.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0069.webp",
+        "filename": "mylar_design_0069.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0049.webp",
+        "filename": "mylar_design_0049.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0225.webp",
+        "filename": "mylar_design_0225.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0233.webp",
+        "filename": "mylar_design_0233.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0008.webp",
+        "filename": "mylar_design_0008.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0073.webp",
+        "filename": "mylar_design_0073.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0136.webp",
+        "filename": "mylar_design_0136.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0024.webp",
+        "filename": "mylar_design_0024.webp",
+        "dimensions": [
+          636,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0161.webp",
+        "filename": "mylar_design_0161.webp",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0248.webp",
+        "filename": "mylar_design_0248.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0198.webp",
+        "filename": "mylar_design_0198.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0177.webp",
+        "filename": "mylar_design_0177.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0120.webp",
+        "filename": "mylar_design_0120.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0209.webp",
+        "filename": "mylar_design_0209.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0208.webp",
+        "filename": "mylar_design_0208.webp",
+        "dimensions": [
+          480,
+          600
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0121.webp",
+        "filename": "mylar_design_0121.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0033.webp",
+        "filename": "mylar_design_0033.webp",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0199.webp",
+        "filename": "mylar_design_0199.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0176.webp",
+        "filename": "mylar_design_0176.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0025.webp",
+        "filename": "mylar_design_0025.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0160.webp",
+        "filename": "mylar_design_0160.webp",
+        "dimensions": [
+          637,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0072.webp",
+        "filename": "mylar_design_0072.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0137.webp",
+        "filename": "mylar_design_0137.webp",
+        "dimensions": [
+          636,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0009.webp",
+        "filename": "mylar_design_0009.webp",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0232.webp",
+        "filename": "mylar_design_0232.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0224.webp",
+        "filename": "mylar_design_0224.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0048.webp",
+        "filename": "mylar_design_0048.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0068.webp",
+        "filename": "mylar_design_0068.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0204.webp",
+        "filename": "mylar_design_0204.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0253.webp",
+        "filename": "mylar_design_0253.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0183.webp",
+        "filename": "mylar_design_0183.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0245.webp",
+        "filename": "mylar_design_0245.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0005.webp",
+        "filename": "mylar_design_0005.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0117.webp",
+        "filename": "mylar_design_0117.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0052.webp",
+        "filename": "mylar_design_0052.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0101.webp",
+        "filename": "mylar_design_0101.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0228.webp",
+        "filename": "mylar_design_0228.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0156.webp",
+        "filename": "mylar_design_0156.webp",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0013.webp",
+        "filename": "mylar_design_0013.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0018.webp",
+        "filename": "mylar_design_0018.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0223.webp",
+        "filename": "mylar_design_0223.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0235.webp",
+        "filename": "mylar_design_0235.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0075.webp",
+        "filename": "mylar_design_0075.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0130.webp",
+        "filename": "mylar_design_0130.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0219.webp",
+        "filename": "mylar_design_0219.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0188.webp",
+        "filename": "mylar_design_0188.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0022.webp",
+        "filename": "mylar_design_0022.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0167.webp",
+        "filename": "mylar_design_0167.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0034.webp",
+        "filename": "mylar_design_0034.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0171.webp",
+        "filename": "mylar_design_0171.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0063.webp",
+        "filename": "mylar_design_0063.webp",
+        "dimensions": [
+          635,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0126.webp",
+        "filename": "mylar_design_0126.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0151.webp",
+        "filename": "mylar_design_0151.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0014.webp",
+        "filename": "mylar_design_0014.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0106.webp",
+        "filename": "mylar_design_0106.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0239.webp",
+        "filename": "mylar_design_0239.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0110.webp",
+        "filename": "mylar_design_0110.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0147.webp",
+        "filename": "mylar_design_0147.webp",
+        "dimensions": [
+          638,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0002.webp",
+        "filename": "mylar_design_0002.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0215.webp",
+        "filename": "mylar_design_0215.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0079.webp",
+        "filename": "mylar_design_0079.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0096.webp",
+        "filename": "mylar_design_0096.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0242.webp",
+        "filename": "mylar_design_0242.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0184.webp",
+        "filename": "mylar_design_0184.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0254.webp",
+        "filename": "mylar_design_0254.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0192.webp",
+        "filename": "mylar_design_0192.webp",
+        "dimensions": [
+          323,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0038.webp",
+        "filename": "mylar_design_0038.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0203.webp",
+        "filename": "mylar_design_0203.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0080.webp",
+        "filename": "mylar_design_0080.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0081.webp",
+        "filename": "mylar_design_0081.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0202.webp",
+        "filename": "mylar_design_0202.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0193.webp",
+        "filename": "mylar_design_0193.webp",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0039.webp",
+        "filename": "mylar_design_0039.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0078.webp",
+        "filename": "mylar_design_0078.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0097.webp",
+        "filename": "mylar_design_0097.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0214.webp",
+        "filename": "mylar_design_0214.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0146.webp",
+        "filename": "mylar_design_0146.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0003.webp",
+        "filename": "mylar_design_0003.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0111.webp",
+        "filename": "mylar_design_0111.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0238.webp",
+        "filename": "mylar_design_0238.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0042.webp",
+        "filename": "mylar_design_0042.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0015.webp",
+        "filename": "mylar_design_0015.webp",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0062.webp",
+        "filename": "mylar_design_0062.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0035.webp",
+        "filename": "mylar_design_0035.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0166.webp",
+        "filename": "mylar_design_0166.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0131.webp",
+        "filename": "mylar_design_0131.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0234.webp",
+        "filename": "mylar_design_0234.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0058.webp",
+        "filename": "mylar_design_0058.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0222.webp",
+        "filename": "mylar_design_0222.webp",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar_design_0019.webp",
+        "filename": "mylar_design_0019.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0378.jpg",
+        "filename": "mylar_design_0378.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0344.jpg",
+        "filename": "mylar_design_0344.jpg",
+        "dimensions": [
+          2000,
+          2502
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0191.jpg",
+        "filename": "mylar_design_0191.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0152.jpg",
+        "filename": "mylar_design_0152.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0387.png",
+        "filename": "mylar_design_0387.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0146.jpg",
+        "filename": "mylar_design_0146.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0026.jpg",
+        "filename": "mylar_design_0026.jpg",
+        "dimensions": [
+          642,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0224.jpg",
+        "filename": "mylar_design_0224.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0230.jpg",
+        "filename": "mylar_design_0230.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0231.jpg",
+        "filename": "mylar_design_0231.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0225.jpg",
+        "filename": "mylar_design_0225.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0219.jpg",
+        "filename": "mylar_design_0219.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0149.webp",
+        "filename": "mylar_design_0149.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0033.jpg",
+        "filename": "mylar_design_0033.jpg",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0027.jpg",
+        "filename": "mylar_design_0027.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0147.jpg",
+        "filename": "mylar_design_0147.jpg",
+        "dimensions": [
+          638,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0153.jpg",
+        "filename": "mylar_design_0153.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0184.jpg",
+        "filename": "mylar_design_0184.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0190.jpg",
+        "filename": "mylar_design_0190.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0345.jpg",
+        "filename": "mylar_design_0345.jpg",
+        "dimensions": [
+          2011,
+          2503
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0379.jpg",
+        "filename": "mylar_design_0379.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0347.jpg",
+        "filename": "mylar_design_0347.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0186.jpg",
+        "filename": "mylar_design_0186.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0192.jpg",
+        "filename": "mylar_design_0192.jpg",
+        "dimensions": [
+          323,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0179.jpg",
+        "filename": "mylar_design_0179.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0145.jpg",
+        "filename": "mylar_design_0145.jpg",
+        "dimensions": [
+          637,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0151.jpg",
+        "filename": "mylar_design_0151.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0384.png",
+        "filename": "mylar_design_0384.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0019.jpg",
+        "filename": "mylar_design_0019.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0025.jpg",
+        "filename": "mylar_design_0025.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0233.jpg",
+        "filename": "mylar_design_0233.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0227.jpg",
+        "filename": "mylar_design_0227.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0226.jpg",
+        "filename": "mylar_design_0226.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0232.jpg",
+        "filename": "mylar_design_0232.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0018.png",
+        "filename": "mylar_design_0018.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0024.jpg",
+        "filename": "mylar_design_0024.jpg",
+        "dimensions": [
+          636,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0385.png",
+        "filename": "mylar_design_0385.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0144.jpg",
+        "filename": "mylar_design_0144.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0104.webp",
+        "filename": "mylar_design_0104.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0178.jpg",
+        "filename": "mylar_design_0178.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0193.jpg",
+        "filename": "mylar_design_0193.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0352.png",
+        "filename": "mylar_design_0352.png",
+        "dimensions": [
+          1920,
+          2413
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0187.jpg",
+        "filename": "mylar_design_0187.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0381.jpg",
+        "filename": "mylar_design_0381.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0342.jpg",
+        "filename": "mylar_design_0342.jpg",
+        "dimensions": [
+          2000,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0356.jpg",
+        "filename": "mylar_design_0356.jpg",
+        "dimensions": [
+          2002,
+          2502
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0183.jpg",
+        "filename": "mylar_design_0183.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0369.webp",
+        "filename": "mylar_design_0369.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0034.jpg",
+        "filename": "mylar_design_0034.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0020.png",
+        "filename": "mylar_design_0020.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0008.png",
+        "filename": "mylar_design_0008.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0222.jpg",
+        "filename": "mylar_design_0222.jpg",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0223.jpg",
+        "filename": "mylar_design_0223.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0237.jpg",
+        "filename": "mylar_design_0237.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0021.png",
+        "filename": "mylar_design_0021.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0009.jpg",
+        "filename": "mylar_design_0009.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0035.jpg",
+        "filename": "mylar_design_0035.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0169.jpg",
+        "filename": "mylar_design_0169.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0155.jpg",
+        "filename": "mylar_design_0155.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0141.jpg",
+        "filename": "mylar_design_0141.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0196.jpg",
+        "filename": "mylar_design_0196.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0182.jpg",
+        "filename": "mylar_design_0182.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0357.jpg",
+        "filename": "mylar_design_0357.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0343.jpg",
+        "filename": "mylar_design_0343.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0129.webp",
+        "filename": "mylar_design_0129.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0380.jpg",
+        "filename": "mylar_design_0380.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0341.jpg",
+        "filename": "mylar_design_0341.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0194.jpg",
+        "filename": "mylar_design_0194.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0180.jpg",
+        "filename": "mylar_design_0180.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0355.png",
+        "filename": "mylar_design_0355.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0157.jpg",
+        "filename": "mylar_design_0157.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0382.png",
+        "filename": "mylar_design_0382.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0143.jpg",
+        "filename": "mylar_design_0143.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0221.jpg",
+        "filename": "mylar_design_0221.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0235.jpg",
+        "filename": "mylar_design_0235.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0209.jpg",
+        "filename": "mylar_design_0209.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0208.jpg",
+        "filename": "mylar_design_0208.jpg",
+        "dimensions": [
+          480,
+          600
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0234.jpg",
+        "filename": "mylar_design_0234.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0220.jpg",
+        "filename": "mylar_design_0220.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0036.jpg",
+        "filename": "mylar_design_0036.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0022.jpg",
+        "filename": "mylar_design_0022.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0350.psd",
+        "filename": "mylar_design_0350.psd",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0156.jpg",
+        "filename": "mylar_design_0156.jpg",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0354.png",
+        "filename": "mylar_design_0354.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0181.jpg",
+        "filename": "mylar_design_0181.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0340.png",
+        "filename": "mylar_design_0340.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0368.jpg",
+        "filename": "mylar_design_0368.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0383.jpg",
+        "filename": "mylar_design_0383.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0327.jpg",
+        "filename": "mylar_design_0327.jpg",
+        "dimensions": [
+          2007,
+          2503
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0333.png",
+        "filename": "mylar_design_0333.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0119.jpg",
+        "filename": "mylar_design_0119.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0131.jpg",
+        "filename": "mylar_design_0131.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0125.jpg",
+        "filename": "mylar_design_0125.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0079.jpg",
+        "filename": "mylar_design_0079.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0303.webp",
+        "filename": "mylar_design_0303.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0045.jpg",
+        "filename": "mylar_design_0045.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0051.jpg",
+        "filename": "mylar_design_0051.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0284.jpg",
+        "filename": "mylar_design_0284.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0290.jpg",
+        "filename": "mylar_design_0290.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0291.jpg",
+        "filename": "mylar_design_0291.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0285.jpg",
+        "filename": "mylar_design_0285.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0078.jpg",
+        "filename": "mylar_design_0078.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0093.jpg",
+        "filename": "mylar_design_0093.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0124.jpg",
+        "filename": "mylar_design_0124.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0118.jpg",
+        "filename": "mylar_design_0118.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0332.png",
+        "filename": "mylar_design_0332.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0326.jpg",
+        "filename": "mylar_design_0326.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0318.jpg",
+        "filename": "mylar_design_0318.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0324.jpg",
+        "filename": "mylar_design_0324.jpg",
+        "dimensions": [
+          2007,
+          2512
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0330.jpg",
+        "filename": "mylar_design_0330.jpg",
+        "dimensions": [
+          2000,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0132.jpg",
+        "filename": "mylar_design_0132.jpg",
+        "dimensions": [
+          642,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0052.jpg",
+        "filename": "mylar_design_0052.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0046.jpg",
+        "filename": "mylar_design_0046.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0293.jpg",
+        "filename": "mylar_design_0293.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0287.jpg",
+        "filename": "mylar_design_0287.jpg",
+        "dimensions": [
+          2000,
+          2506
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0278.jpg",
+        "filename": "mylar_design_0278.jpg",
+        "dimensions": [
+          2006,
+          2512
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0250.jpg",
+        "filename": "mylar_design_0250.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0245.jpg",
+        "filename": "mylar_design_0245.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0251.jpg",
+        "filename": "mylar_design_0251.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0279.jpg",
+        "filename": "mylar_design_0279.jpg",
+        "dimensions": [
+          2000,
+          2503
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0292.jpg",
+        "filename": "mylar_design_0292.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0047.jpg",
+        "filename": "mylar_design_0047.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0090.jpg",
+        "filename": "mylar_design_0090.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0133.jpg",
+        "filename": "mylar_design_0133.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0362.webp",
+        "filename": "mylar_design_0362.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0331.png",
+        "filename": "mylar_design_0331.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0325.jpg",
+        "filename": "mylar_design_0325.jpg",
+        "dimensions": [
+          2006,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0319.jpg",
+        "filename": "mylar_design_0319.jpg",
+        "dimensions": [
+          2008,
+          2505
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0321.jpg",
+        "filename": "mylar_design_0321.jpg",
+        "dimensions": [
+          2010,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0335.png",
+        "filename": "mylar_design_0335.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0123.jpg",
+        "filename": "mylar_design_0123.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0137.jpg",
+        "filename": "mylar_design_0137.jpg",
+        "dimensions": [
+          636,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0080.jpg",
+        "filename": "mylar_design_0080.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0269.png",
+        "filename": "mylar_design_0269.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0057.jpg",
+        "filename": "mylar_design_0057.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0282.png",
+        "filename": "mylar_design_0282.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0296.jpg",
+        "filename": "mylar_design_0296.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0255.jpg",
+        "filename": "mylar_design_0255.jpg",
+        "dimensions": [
+          2011,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0241.jpg",
+        "filename": "mylar_design_0241.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0240.jpg",
+        "filename": "mylar_design_0240.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0254.jpg",
+        "filename": "mylar_design_0254.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0283.jpg",
+        "filename": "mylar_design_0283.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0297.jpg",
+        "filename": "mylar_design_0297.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0042.jpg",
+        "filename": "mylar_design_0042.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0136.jpg",
+        "filename": "mylar_design_0136.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0320.png",
+        "filename": "mylar_design_0320.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0334.png",
+        "filename": "mylar_design_0334.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0322.jpg",
+        "filename": "mylar_design_0322.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0336.png",
+        "filename": "mylar_design_0336.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0134.jpg",
+        "filename": "mylar_design_0134.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0120.jpg",
+        "filename": "mylar_design_0120.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0108.jpg",
+        "filename": "mylar_design_0108.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0097.jpg",
+        "filename": "mylar_design_0097.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0281.png",
+        "filename": "mylar_design_0281.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0068.jpg",
+        "filename": "mylar_design_0068.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0295.jpg",
+        "filename": "mylar_design_0295.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0242.jpg",
+        "filename": "mylar_design_0242.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0256.jpg",
+        "filename": "mylar_design_0256.jpg",
+        "dimensions": [
+          2010,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0257.jpg",
+        "filename": "mylar_design_0257.jpg",
+        "dimensions": [
+          2006,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0082.png",
+        "filename": "mylar_design_0082.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0069.jpg",
+        "filename": "mylar_design_0069.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0280.png",
+        "filename": "mylar_design_0280.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0247.webp",
+        "filename": "mylar_design_0247.webp",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0294.png",
+        "filename": "mylar_design_0294.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0109.jpg",
+        "filename": "mylar_design_0109.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0121.jpg",
+        "filename": "mylar_design_0121.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0135.jpg",
+        "filename": "mylar_design_0135.jpg",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0323.jpg",
+        "filename": "mylar_design_0323.jpg",
+        "dimensions": [
+          2006,
+          2512
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0337.jpg",
+        "filename": "mylar_design_0337.jpg",
+        "dimensions": [
+          2001,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0138.jpg",
+        "filename": "mylar_design_0138.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0110.jpg",
+        "filename": "mylar_design_0110.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0070.jpg",
+        "filename": "mylar_design_0070.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0299.jpg",
+        "filename": "mylar_design_0299.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0058.png",
+        "filename": "mylar_design_0058.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0272.jpg",
+        "filename": "mylar_design_0272.jpg",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0273.jpg",
+        "filename": "mylar_design_0273.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0298.jpg",
+        "filename": "mylar_design_0298.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0071.jpg",
+        "filename": "mylar_design_0071.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0244.webp",
+        "filename": "mylar_design_0244.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0105.jpg",
+        "filename": "mylar_design_0105.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0111.jpg",
+        "filename": "mylar_design_0111.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0139.jpg",
+        "filename": "mylar_design_0139.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0313.jpg",
+        "filename": "mylar_design_0313.jpg",
+        "dimensions": [
+          2006,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0107.PNG",
+        "filename": "mylar_design_0107.PNG",
+        "dimensions": [
+          1286,
+          1610
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0339.png",
+        "filename": "mylar_design_0339.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0113.jpg",
+        "filename": "mylar_design_0113.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0098.jpg",
+        "filename": "mylar_design_0098.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0073.jpg",
+        "filename": "mylar_design_0073.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0259.jpg",
+        "filename": "mylar_design_0259.jpg",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0271.jpg",
+        "filename": "mylar_design_0271.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0264.jpg",
+        "filename": "mylar_design_0264.jpg",
+        "dimensions": [
+          2007,
+          2505
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0270.jpg",
+        "filename": "mylar_design_0270.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0072.png",
+        "filename": "mylar_design_0072.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0066.jpg",
+        "filename": "mylar_design_0066.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0248.webp",
+        "filename": "mylar_design_0248.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0099.jpg",
+        "filename": "mylar_design_0099.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0258.png",
+        "filename": "mylar_design_0258.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0112.jpg",
+        "filename": "mylar_design_0112.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0106.jpg",
+        "filename": "mylar_design_0106.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0304.jpg",
+        "filename": "mylar_design_0304.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0338.jpg",
+        "filename": "mylar_design_0338.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0300.jpg",
+        "filename": "mylar_design_0300.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0102.jpg",
+        "filename": "mylar_design_0102.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0116.jpg",
+        "filename": "mylar_design_0116.jpg",
+        "dimensions": [
+          637,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0274.png",
+        "filename": "mylar_design_0274.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0089.jpg",
+        "filename": "mylar_design_0089.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0076.jpg",
+        "filename": "mylar_design_0076.jpg",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0062.jpg",
+        "filename": "mylar_design_0062.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0260.jpg",
+        "filename": "mylar_design_0260.jpg",
+        "dimensions": [
+          2008,
+          2510
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0275.jpg",
+        "filename": "mylar_design_0275.jpg",
+        "dimensions": [
+          2006,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0063.jpg",
+        "filename": "mylar_design_0063.jpg",
+        "dimensions": [
+          635,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0117.jpg",
+        "filename": "mylar_design_0117.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0329.jpg",
+        "filename": "mylar_design_0329.jpg",
+        "dimensions": [
+          2007,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0315.jpg",
+        "filename": "mylar_design_0315.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0301.jpg",
+        "filename": "mylar_design_0301.jpg",
+        "dimensions": [
+          2009,
+          2510
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0253.webp",
+        "filename": "mylar_design_0253.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0115.jpg",
+        "filename": "mylar_design_0115.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0101.jpg",
+        "filename": "mylar_design_0101.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0316.webp",
+        "filename": "mylar_design_0316.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0061.jpg",
+        "filename": "mylar_design_0061.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0075.jpg",
+        "filename": "mylar_design_0075.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0288.png",
+        "filename": "mylar_design_0288.png",
+        "dimensions": [
+          1201,
+          1501
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0049.jpg",
+        "filename": "mylar_design_0049.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0263.jpg",
+        "filename": "mylar_design_0263.jpg",
+        "dimensions": [
+          1440,
+          1800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0277.jpg",
+        "filename": "mylar_design_0277.jpg",
+        "dimensions": [
+          2001,
+          2506
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0276.jpg",
+        "filename": "mylar_design_0276.jpg",
+        "dimensions": [
+          2000,
+          2512
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0262.jpg",
+        "filename": "mylar_design_0262.jpg",
+        "dimensions": [
+          2011,
+          2503
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0289.jpg",
+        "filename": "mylar_design_0289.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0286.webp",
+        "filename": "mylar_design_0286.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0048.jpg",
+        "filename": "mylar_design_0048.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0114.jpg",
+        "filename": "mylar_design_0114.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0302.jpg",
+        "filename": "mylar_design_0302.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0267.jpeg",
+        "filename": "mylar_design_0267.jpeg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0371.jpg",
+        "filename": "mylar_design_0371.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0198.jpg",
+        "filename": "mylar_design_0198.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0173.jpg",
+        "filename": "mylar_design_0173.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0167.jpg",
+        "filename": "mylar_design_0167.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0013.jpg",
+        "filename": "mylar_design_0013.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0007.png",
+        "filename": "mylar_design_0007.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0239.jpg",
+        "filename": "mylar_design_0239.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0205.jpg",
+        "filename": "mylar_design_0205.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0211.jpg",
+        "filename": "mylar_design_0211.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0210.jpg",
+        "filename": "mylar_design_0210.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0204.jpg",
+        "filename": "mylar_design_0204.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0130.webp",
+        "filename": "mylar_design_0130.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0012.jpg",
+        "filename": "mylar_design_0012.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0166.jpg",
+        "filename": "mylar_design_0166.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0172.jpg",
+        "filename": "mylar_design_0172.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0370.png",
+        "filename": "mylar_design_0370.png",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0199.jpg",
+        "filename": "mylar_design_0199.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0364.jpg",
+        "filename": "mylar_design_0364.jpg",
+        "dimensions": [
+          2002,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0358.jpg",
+        "filename": "mylar_design_0358.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0366.jpg",
+        "filename": "mylar_design_0366.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0372.jpg",
+        "filename": "mylar_design_0372.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0158.jpg",
+        "filename": "mylar_design_0158.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0164.jpg",
+        "filename": "mylar_design_0164.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0038.jpg",
+        "filename": "mylar_design_0038.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0010.jpg",
+        "filename": "mylar_design_0010.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0004.png",
+        "filename": "mylar_design_0004.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0207.jpg",
+        "filename": "mylar_design_0207.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0213.jpg",
+        "filename": "mylar_design_0213.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0005.png",
+        "filename": "mylar_design_0005.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0096.webp",
+        "filename": "mylar_design_0096.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0011.jpg",
+        "filename": "mylar_design_0011.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0039.jpg",
+        "filename": "mylar_design_0039.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0171.jpg",
+        "filename": "mylar_design_0171.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0165.jpg",
+        "filename": "mylar_design_0165.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0159.jpg",
+        "filename": "mylar_design_0159.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0373.jpg",
+        "filename": "mylar_design_0373.jpg",
+        "dimensions": [
+          320,
+          400
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0367.jpg",
+        "filename": "mylar_design_0367.jpg",
+        "dimensions": [
+          2011,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0081.webp",
+        "filename": "mylar_design_0081.webp",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0388.jpg",
+        "filename": "mylar_design_0388.jpg",
+        "dimensions": [
+          2006,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0363.jpg",
+        "filename": "mylar_design_0363.jpg",
+        "dimensions": [
+          2000,
+          2500
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0161.jpg",
+        "filename": "mylar_design_0161.jpg",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0175.jpg",
+        "filename": "mylar_design_0175.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0015.jpg",
+        "filename": "mylar_design_0015.jpg",
+        "dimensions": [
+          641,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0001.jpg",
+        "filename": "mylar_design_0001.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0217.jpg",
+        "filename": "mylar_design_0217.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0202.jpg",
+        "filename": "mylar_design_0202.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0216.jpg",
+        "filename": "mylar_design_0216.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0028.png",
+        "filename": "mylar_design_0028.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0014.png",
+        "filename": "mylar_design_0014.png",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0148.jpg",
+        "filename": "mylar_design_0148.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0160.jpg",
+        "filename": "mylar_design_0160.jpg",
+        "dimensions": [
+          637,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0374.jpg",
+        "filename": "mylar_design_0374.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0360.jpg",
+        "filename": "mylar_design_0360.jpg",
+        "dimensions": [
+          2007,
+          2507
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0176.jpg",
+        "filename": "mylar_design_0176.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0162.jpg",
+        "filename": "mylar_design_0162.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0002.jpg",
+        "filename": "mylar_design_0002.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0016.jpg",
+        "filename": "mylar_design_0016.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0067.jpeg",
+        "filename": "mylar_design_0067.jpeg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0200.jpg",
+        "filename": "mylar_design_0200.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0214.jpg",
+        "filename": "mylar_design_0214.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0228.jpg",
+        "filename": "mylar_design_0228.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0229.jpg",
+        "filename": "mylar_design_0229.jpg",
+        "dimensions": [
+          1200,
+          1500
+        ],
+        "match_reason": "1200x1500"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0215.jpg",
+        "filename": "mylar_design_0215.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0201.jpg",
+        "filename": "mylar_design_0201.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0017.jpg",
+        "filename": "mylar_design_0017.jpg",
+        "dimensions": [
+          643,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0003.jpg",
+        "filename": "mylar_design_0003.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0163.jpg",
+        "filename": "mylar_design_0163.jpg",
+        "dimensions": [
+          639,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0177.jpg",
+        "filename": "mylar_design_0177.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0361.jpg",
+        "filename": "mylar_design_0361.jpg",
+        "dimensions": [
+          2006,
+          2496
+        ],
+        "match_reason": "4:5 ratio"
+      },
+      {
+        "file_path": "/Users/tylerdiorio/mylar-catalog-optimized/mylar-catalog-output/mylar_design_0375.jpg",
+        "filename": "mylar_design_0375.jpg",
+        "dimensions": [
+          640,
+          800
+        ],
+        "match_reason": "4:5 ratio"
+      }
+    ]
+  }
+]
